@@ -1,4 +1,4 @@
-### Hi 🖖
+### Hi 🐱‍👤
 
 Junior Software Developer
 
@@ -7,7 +7,6 @@ Junior Software Developer
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
 <a href="https://www.php.net"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -32,9 +31,7 @@ Junior Software Developer
 
 🔗 Visit my interactive portfolio on [ matteorapa.com ](https://www.matteorapa.com)
 
-🌱 I’m currently learning Next.Js, Jest & SWR
-
-🎓 I’m currently reading a bachlor's degree in B.Sc. IT (Software Development)
+🎓 B.Sc. IT (Software Development) at the University of Malta
 
 <hr />
   
