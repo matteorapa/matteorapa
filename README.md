@@ -1,6 +1,6 @@
 ### Hi
 
-Junior Software Engineer
+Software Engineer
 
 
 <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
